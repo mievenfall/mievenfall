@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Evelyn</h1>
-<h3 align="center">A Computer Science Junior @ California State Polytechnic University, Pomona</h3>
+<h3 align="center">A Computer Science Student @ California State Polytechnic University, Pomona</h3>
 
 - 📫 How to reach me **mngoc2603@gmail.com**
 
