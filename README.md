@@ -16,7 +16,7 @@
 </p>
 
 
-<img src="./img/Chibi-E.png" alt="chibi-evelyn" align="right" width="630">
+<img src="./img/Chibi-E.png" alt="chibi-evelyn" align="right" width="200">
 
 
 
