@@ -44,7 +44,7 @@
 
 <h3 align="left">Let's connect:</h3>
 
-<a target="_blank" href="https://www.linkedin.com/in/www.linkedin.com/in/evelynvu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/evelynvu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:mngoc2603@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://x.com/mievenfall"><img src="https://img.shields.io/badge/@mievenfall-000000?style=for-the-badge&logo=x&logoColor=white"></img></a>
 <a target="_blank" href="https://www.threads.net/@mievenfall"><img src="https://img.shields.io/badge/Threads-000000.svg?style=for-the-badge&logo=Threads&logoColor=white"></img></a>
