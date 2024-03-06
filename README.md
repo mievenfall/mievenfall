@@ -34,10 +34,10 @@
 
 ```
 "evelyn": {
-    "languages": ["Python", "C/C++", "Java", "HTML", "CSS", "JavaScript"],
-    "frameworks": ["skicit-learn", "PyTorch", "Flask", "React"],
-    "databases": ["mySQL", "elasticsearch"],
-    "developer tools": ["Git", "AWS", "Postman", "Jupyter Notebook", "VS Code", "PyCharm"],
+    "languages": ["Python", "C/C++", "Java", "HTML", "CSS", "JavaScript", "Dart", "Kotlin"],
+    "frameworks": ["skicit-learn", "PyTorch", "Flask", "React", "Flutter"],
+    "databases": ["mySQL", "PostgreSQL", "elasticsearch"],
+    "developer tools": ["Git", "AWS", "Postman", "Jupyter Notebook", "VS Code", "PyCharm", "Android Studio"],
     "interests": ["software engineering", "data science", "data engineering"]
 }
 ```
