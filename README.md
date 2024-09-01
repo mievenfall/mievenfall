@@ -21,8 +21,7 @@
 
 
 - 😄 Pronouns: she/her
-- 📓 I'm currently a CS student at Cal Poly Pomona
-- 💻 I'm working part-time as a Data Engineer
+- 📓 I'm a new-grad at Cal Poly Pomona with a BS in Computer Science and minor in Data Science
 - 🌱 I’m currently learning on Machine Learning 
 - 🎮 I love exploring new games
 - ☕ I'm a coffee lover!
@@ -45,9 +44,8 @@
 <h3 align="left">Let's connect:</h3>
 
 <a target="_blank" href="https://www.linkedin.com/in/evelynvu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:mngoc2603@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="mailto:evelyn.mnvu3@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 <a target="_blank" href="https://x.com/mievenfall"><img src="https://img.shields.io/badge/@mievenfall-000000?style=for-the-badge&logo=x&logoColor=white"></img></a>
-<a target="_blank" href="https://www.threads.net/@mievenfall"><img src="https://img.shields.io/badge/Threads-000000.svg?style=for-the-badge&logo=Threads&logoColor=white"></img></a>
 
 <h3 align="left">Others:</h3>
 
