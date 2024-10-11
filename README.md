@@ -33,7 +33,7 @@
 
 ```
 "evelyn": {
-    "languages": ["Python", "C/C++", "Java", "HTML", "CSS", "JavaScript", "Dart", "Kotlin"],
+    "languages": ["Python", "R", "C/C++", "Java", "HTML", "CSS", "JavaScript", "Dart", "Kotlin"],
     "frameworks": ["skicit-learn", "PyTorch", "Flask", "React", "Flutter"],
     "databases": ["mySQL", "PostgreSQL", "MongoDB", "elasticsearch"],
     "developer tools": ["Git", "AWS", "Postman", "Jupyter Notebook", "VS Code", "PyCharm", "Android Studio"],
